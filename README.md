@@ -5,7 +5,7 @@ This is the starter project or boilerplate.
 ## Start Developing...
 
 * Clone repo
-  - `git clone https://github.com/testingdevusergit/bw.git`
+  - `git clone https://github.com/testingdevusergit/bw1.git`
 
 * Install dependencies
   - `yarn add`
